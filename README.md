@@ -1,4 +1,4 @@
-Abra uma pasta no seu computador
+Abra uma pasta no seu pendrive
 
 Abra o terminal do vs code nessa pasta e copie:
 
